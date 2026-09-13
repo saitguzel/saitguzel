@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" role="img" aria-label="Portfolio repository"><title>Portfolio repository</title><style>
+.bg{fill:#ffffff;stroke:#d0d7de}.t{fill:#1f2328}.m{fill:#59636e}.a{fill:#0e7c86}.grid{stroke:#eaeef2}
+.l0{fill:#ebedf0}.l1{fill:#9be9e0}.l2{fill:#40c4b4}.l3{fill:#0e9488}.l4{fill:#0b5f63}
+@media (prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d}.t{fill:#e6edf3}.m{fill:#9198a1}.a{fill:#2dd4bf}.grid{stroke:#21262d}
+.l0{fill:#161b22}.l1{fill:#0e4d4a}.l2{fill:#11756d}.l3{fill:#1aa394}.l4{fill:#2dd4bf}}
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style><rect class="bg" x="0.5" y="0.5" width="399" height="169" rx="10"/><text x="20" y="34" class="a" font-size="15" font-weight="700">Portfolio</text><text x="20" y="52" class="m" font-size="11">saitguzel/saitguzel.github.io</text><text x="20" y="78" class="t" font-size="12.5">Bilingual (TR/EN) portfolio generated from the same data</text><text x="20" y="95" class="t" font-size="12.5">as my CV. Light/dark theme, SEO, zero build step.</text><circle cx="26" cy="144" r="5" fill="#e34c26"/><text x="37" y="148" class="m" font-size="12">HTML</text><text x="380" y="148" class="m" font-size="12" text-anchor="end">★ 0 · updated Sep 2026</text></svg>
