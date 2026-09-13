@@ -2,7 +2,7 @@
 
 [← Back to profile](README.md) · Last update: **13 Sep 2026** · Data: public GitHub API and contribution calendar
 
-<img src="assets/cards/overview.svg" alt="GitHub overview" height="220"> <img src="assets/cards/languages.svg" alt="Languages" height="220">
+<img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
 <img src="assets/cards/contributions-calendar.svg" alt="Contribution calendar" width="720">
 

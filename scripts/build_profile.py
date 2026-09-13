@@ -388,8 +388,8 @@ Some of my most substantial work lives in private repositories. Highlights:
 ## 📊 GitHub stats
 
 <p>
-  <img src="assets/cards/overview.svg" alt="GitHub overview" height="220">
-  <img src="assets/cards/languages.svg" alt="Languages" height="220">
+  <img src="assets/cards/overview.svg" alt="GitHub overview" height="195">
+  <img src="assets/cards/languages.svg" alt="Languages" height="195">
 </p>
 <img src="assets/cards/contributions-monthly.svg" alt="Contributions per month" width="720">
 
@@ -447,7 +447,7 @@ def build_stats(user, repos, summary, shares, updated):
 
 [← Back to profile](README.md) · Last update: **{updated}** · Data: public GitHub API and contribution calendar
 
-<img src="assets/cards/overview.svg" alt="GitHub overview" height="220"> <img src="assets/cards/languages.svg" alt="Languages" height="220">
+<img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
 <img src="assets/cards/contributions-calendar.svg" alt="Contribution calendar" width="720">
 
