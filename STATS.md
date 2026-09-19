@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **18 Sep 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **19 Sep 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -12,12 +12,12 @@
 
 | Metric | Value |
 |---|---|
-| Total contributions | **152** |
-| Active days | 25 |
-| Current streak | 1 days |
+| Total contributions | **157** |
+| Active days | 26 |
+| Current streak | 2 days |
 | Longest streak | 6 days |
 | Best day | 38 contributions on 29 July 2026 |
-| Public repositories (own, non-fork) | 18 |
+| Public repositories (own, non-fork) | 20 |
 | Stars earned | 0 |
 | Followers / following | 14 / 146 |
 | Public gists | 18 |
@@ -30,7 +30,7 @@
 
 | Month | Contributions |
 |---|---|
-| September 2026 | 93 |
+| September 2026 | 98 |
 | August 2026 | 5 |
 | July 2026 | 45 |
 | June 2026 | 0 |
@@ -51,21 +51,23 @@ Share of code across my own public repositories. Every repository has equal weig
 
 | Language | Share | |
 |---|---|---|
-| C# | 49.7% | ████████████ |
-| HTML | 14.9% | ████ |
-| TypeScript | 13.9% | ███ |
-| Kotlin | 5.6% | █ |
-| Python | 5.6% | █ |
-| CSS | 5.3% | █ |
-| ASP | 3.0% | █ |
-| JavaScript | 1.0% | █ |
-| SCSS | 0.6% | █ |
-| Dockerfile | 0.3% | █ |
+| C# | 44.8% | ███████████ |
+| HTML | 13.5% | ███ |
+| TypeScript | 12.7% | ███ |
+| Kotlin | 5.0% | █ |
+| Python | 5.0% | █ |
+| CSS | 4.9% | █ |
+| Clojure | 4.8% | █ |
+| Lua | 4.4% | █ |
+| ASP | 2.7% | █ |
+| JavaScript | 1.1% | █ |
 
 ## Public repositories
 
 | Repository | Description | Language | ★ | Forks | Last push |
 |---|---|---|---|---|---|
+| [lua-todo-sample-app](https://github.com/saitguzel/lua-todo-sample-app) |  | Lua | 0 | 0 | 2026-09-19 |
+| [clojure-todo-sample-app](https://github.com/saitguzel/clojure-todo-sample-app) |  | Clojure | 0 | 0 | 2026-09-18 |
 | [saitguzel.github.io](https://github.com/saitguzel/saitguzel.github.io) | Bilingual (TR/EN) portfolio generated from the same data as my CV. Light/dark theme, SEO, zero build step. | HTML | 0 | 0 | 2026-09-13 |
 | [world-tv](https://github.com/saitguzel/world-tv) | Android TV live TV & radio app: three-tier stream health engine, silent failover, streaming XMLTV guide parser, 100 unit tests. | Kotlin | 0 | 0 | 2026-09-03 |
 | [youtube_oynatma_listesi_mp3_olarak_indirme](https://github.com/saitguzel/youtube_oynatma_listesi_mp3_olarak_indirme) | Desktop app (Flet) that downloads whole playlists as MP3 with parallel downloads, retries and duplicate detection. | Python | 0 | 0 | 2025-11-19 |
