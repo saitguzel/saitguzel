@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **19 Sep 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **20 Sep 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -12,7 +12,7 @@
 
 | Metric | Value |
 |---|---|
-| Total contributions | **157** |
+| Total contributions | **160** |
 | Active days | 26 |
 | Current streak | 2 days |
 | Longest streak | 6 days |
@@ -30,7 +30,7 @@
 
 | Month | Contributions |
 |---|---|
-| September 2026 | 98 |
+| September 2026 | 101 |
 | August 2026 | 5 |
 | July 2026 | 45 |
 | June 2026 | 0 |
@@ -53,12 +53,12 @@ Share of code across my own public repositories. Every repository has equal weig
 |---|---|---|
 | C# | 44.8% | ███████████ |
 | HTML | 13.5% | ███ |
-| TypeScript | 12.7% | ███ |
+| TypeScript | 12.8% | ███ |
 | Kotlin | 5.0% | █ |
 | Python | 5.0% | █ |
 | CSS | 4.9% | █ |
 | Clojure | 4.8% | █ |
-| Lua | 4.4% | █ |
+| Lua | 4.3% | █ |
 | ASP | 2.7% | █ |
 | JavaScript | 1.1% | █ |
 
