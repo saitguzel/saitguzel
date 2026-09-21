@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **20 Sep 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **21 Sep 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -12,12 +12,12 @@
 
 | Metric | Value |
 |---|---|
-| Total contributions | **160** |
-| Active days | 26 |
-| Current streak | 2 days |
+| Total contributions | **162** |
+| Active days | 27 |
+| Current streak | 1 days |
 | Longest streak | 6 days |
 | Best day | 38 contributions on 29 July 2026 |
-| Public repositories (own, non-fork) | 20 |
+| Public repositories (own, non-fork) | 21 |
 | Stars earned | 0 |
 | Followers / following | 14 / 146 |
 | Public gists | 18 |
@@ -30,7 +30,7 @@
 
 | Month | Contributions |
 |---|---|
-| September 2026 | 101 |
+| September 2026 | 103 |
 | August 2026 | 5 |
 | July 2026 | 45 |
 | June 2026 | 0 |
@@ -51,21 +51,22 @@ Share of code across my own public repositories. Every repository has equal weig
 
 | Language | Share | |
 |---|---|---|
-| C# | 44.8% | ███████████ |
-| HTML | 13.5% | ███ |
-| TypeScript | 12.8% | ███ |
-| Kotlin | 5.0% | █ |
-| Python | 5.0% | █ |
-| CSS | 4.9% | █ |
-| Clojure | 4.8% | █ |
-| Lua | 4.3% | █ |
-| ASP | 2.7% | █ |
-| JavaScript | 1.1% | █ |
+| C# | 43.3% | ███████████ |
+| TypeScript | 12.9% | ███ |
+| HTML | 12.8% | ███ |
+| Python | 7.5% | ██ |
+| Kotlin | 4.8% | █ |
+| CSS | 4.7% | █ |
+| Clojure | 4.6% | █ |
+| Lua | 4.1% | █ |
+| ASP | 2.6% | █ |
+| JavaScript | 1.0% | █ |
 
 ## Public repositories
 
 | Repository | Description | Language | ★ | Forks | Last push |
 |---|---|---|---|---|---|
+| [medya-ai-image-processing-platform](https://github.com/saitguzel/medya-ai-image-processing-platform) |  | Python | 0 | 0 | 2026-09-21 |
 | [lua-todo-sample-app](https://github.com/saitguzel/lua-todo-sample-app) |  | Lua | 0 | 0 | 2026-09-19 |
 | [clojure-todo-sample-app](https://github.com/saitguzel/clojure-todo-sample-app) |  | Clojure | 0 | 0 | 2026-09-18 |
 | [saitguzel.github.io](https://github.com/saitguzel/saitguzel.github.io) | Bilingual (TR/EN) portfolio generated from the same data as my CV. Light/dark theme, SEO, zero build step. | HTML | 0 | 0 | 2026-09-13 |
