@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **24 Sep 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **25 Sep 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -12,12 +12,12 @@
 
 | Metric | Value |
 |---|---|
-| Total contributions | **176** |
-| Active days | 28 |
-| Current streak | 0 days |
+| Total contributions | **184** |
+| Active days | 30 |
+| Current streak | 2 days |
 | Longest streak | 6 days |
 | Best day | 38 contributions on 29 July 2026 |
-| Public repositories (own, non-fork) | 21 |
+| Public repositories (own, non-fork) | 22 |
 | Stars earned | 0 |
 | Followers / following | 14 / 147 |
 | Public gists | 18 |
@@ -30,7 +30,7 @@
 
 | Month | Contributions |
 |---|---|
-| September 2026 | 117 |
+| September 2026 | 125 |
 | August 2026 | 5 |
 | July 2026 | 45 |
 | June 2026 | 0 |
@@ -51,21 +51,22 @@ Share of code across my own public repositories. Every repository has equal weig
 
 | Language | Share | |
 |---|---|---|
-| C# | 43.3% | ███████████ |
-| TypeScript | 12.9% | ███ |
-| HTML | 12.8% | ███ |
-| Python | 7.5% | ██ |
-| Kotlin | 4.8% | █ |
-| CSS | 4.7% | █ |
-| Clojure | 4.6% | █ |
-| Lua | 4.1% | █ |
-| ASP | 2.6% | █ |
-| JavaScript | 1.0% | █ |
+| C# | 41.3% | ██████████ |
+| TypeScript | 12.6% | ███ |
+| HTML | 12.3% | ███ |
+| Lua | 7.9% | ██ |
+| Python | 7.2% | ██ |
+| CSS | 4.6% | █ |
+| Kotlin | 4.5% | █ |
+| Clojure | 4.3% | █ |
+| ASP | 2.5% | █ |
+| JavaScript | 1.1% | █ |
 
 ## Public repositories
 
 | Repository | Description | Language | ★ | Forks | Last push |
 |---|---|---|---|---|---|
+| [lua-pg-editor](https://github.com/saitguzel/lua-pg-editor) |  | Lua | 0 | 0 | 2026-09-25 |
 | [medya-ai-image-processing-platform](https://github.com/saitguzel/medya-ai-image-processing-platform) |  | Python | 0 | 0 | 2026-09-21 |
 | [lua-todo-sample-app](https://github.com/saitguzel/lua-todo-sample-app) |  | Lua | 0 | 0 | 2026-09-19 |
 | [clojure-todo-sample-app](https://github.com/saitguzel/clojure-todo-sample-app) |  | Clojure | 0 | 0 | 2026-09-18 |
