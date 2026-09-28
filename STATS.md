@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **27 Sep 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **28 Sep 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -12,12 +12,12 @@
 
 | Metric | Value |
 |---|---|
-| Total contributions | **185** |
-| Active days | 30 |
-| Current streak | 0 days |
+| Total contributions | **187** |
+| Active days | 31 |
+| Current streak | 1 days |
 | Longest streak | 6 days |
 | Best day | 38 contributions on 29 July 2026 |
-| Public repositories (own, non-fork) | 22 |
+| Public repositories (own, non-fork) | 23 |
 | Stars earned | 0 |
 | Followers / following | 14 / 147 |
 | Public gists | 18 |
@@ -30,7 +30,7 @@
 
 | Month | Contributions |
 |---|---|
-| September 2026 | 126 |
+| September 2026 | 128 |
 | August 2026 | 5 |
 | July 2026 | 45 |
 | June 2026 | 0 |
@@ -51,21 +51,22 @@ Share of code across my own public repositories. Every repository has equal weig
 
 | Language | Share | |
 |---|---|---|
-| C# | 41.3% | ██████████ |
-| TypeScript | 12.6% | ███ |
-| HTML | 12.3% | ███ |
-| Lua | 7.9% | ██ |
-| Python | 7.2% | ██ |
-| CSS | 4.6% | █ |
-| Kotlin | 4.5% | █ |
-| Clojure | 4.3% | █ |
-| ASP | 2.5% | █ |
-| JavaScript | 1.1% | █ |
+| C# | 39.5% | ██████████ |
+| TypeScript | 13.0% | ███ |
+| HTML | 11.7% | ███ |
+| Lua | 7.5% | ██ |
+| Python | 6.9% | ██ |
+| CSS | 4.4% | █ |
+| Kotlin | 4.3% | █ |
+| Clojure | 4.2% | █ |
+| Rust | 3.1% | █ |
+| ASP | 2.4% | █ |
 
 ## Public repositories
 
 | Repository | Description | Language | ★ | Forks | Last push |
 |---|---|---|---|---|---|
+| [supabase-rust-todo-sample-app](https://github.com/saitguzel/supabase-rust-todo-sample-app) |  | Rust | 0 | 0 | 2026-09-28 |
 | [lua-pg-editor](https://github.com/saitguzel/lua-pg-editor) |  | Lua | 0 | 0 | 2026-09-25 |
 | [medya-ai-image-processing-platform](https://github.com/saitguzel/medya-ai-image-processing-platform) |  | Python | 0 | 0 | 2026-09-21 |
 | [lua-todo-sample-app](https://github.com/saitguzel/lua-todo-sample-app) |  | Lua | 0 | 0 | 2026-09-19 |
