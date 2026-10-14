@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **13 Oct 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **14 Oct 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -19,7 +19,7 @@
 | Best day | 38 contributions on 29 July 2026 |
 | Public repositories (own, non-fork) | 23 |
 | Stars earned | 0 |
-| Followers / following | 14 / 147 |
+| Followers / following | 14 / 148 |
 | Public gists | 18 |
 | On GitHub since | 2013-10-21 |
 
