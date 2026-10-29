@@ -1,6 +1,6 @@
 # 📊 GitHub statistics · Sait GÜZEL
 
-[← Back to profile](README.md) · Last update: **28 Oct 2026** · Data: public GitHub API and contribution calendar
+[← Back to profile](README.md) · Last update: **29 Oct 2026** · Data: public GitHub API and contribution calendar
 
 <img src="assets/cards/overview.svg" alt="GitHub overview" height="195"> <img src="assets/cards/languages.svg" alt="Languages" height="195">
 
@@ -12,7 +12,7 @@
 
 | Metric | Value |
 |---|---|
-| Total contributions | **261** |
+| Total contributions | **267** |
 | Active days | 40 |
 | Current streak | 3 days |
 | Longest streak | 6 days |
@@ -30,7 +30,7 @@
 
 | Month | Contributions |
 |---|---|
-| October 2026 | 64 |
+| October 2026 | 70 |
 | September 2026 | 142 |
 | August 2026 | 5 |
 | July 2026 | 45 |
